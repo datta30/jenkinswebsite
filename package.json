@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://datta30.github.io/jenkinsapp/",
+  "homepage": "https://datta30.github.io/jenkinswebsite/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
